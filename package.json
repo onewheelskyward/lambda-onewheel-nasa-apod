@@ -1,0 +1,26 @@
+{
+  "name": "lambda-onewheel-nasa-apod",
+  "version": "0.0.0",
+  "description": "Lambda to grab the NASA Astronomy Photo of the Day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onewheelskyward/lambda-onewheel-nasa-apod.git"
+  },
+  "keywords": [
+    "nasa",
+    "astronomy"
+  ],
+  "author": "Andrew Kreps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onewheelskyward/lambda-onewheel-nasa-apod/issues"
+  },
+  "homepage": "https://github.com/onewheelskyward/lambda-onewheel-nasa-apod#readme",
+  "dependencies": {
+    "x-ray": "^2.3.1"
+  }
+}
